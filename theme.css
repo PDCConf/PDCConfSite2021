@@ -592,6 +592,11 @@ a.btn, button, input[type=button], input[type=reset], input[type=submit], span.b
     --active-color: var(--darken-1)
 }
 
+a.disabled {
+    pointer-events: none;
+    cursor: default;
+  }
+
 a.btn.btn-lg, button.btn-lg, input[type=button].btn-lg, input[type=reset].btn-lg, input[type=submit].btn-lg, span.btn.btn-lg {
     padding: .5rem 1rem;
     font-size: 1.25rem;
@@ -625,6 +630,11 @@ a.btn.btn-icon-only, button.btn-icon-only, input[type=button].btn-icon-only, inp
     padding: var(--space-2);
     border-color: transparent
 }
+
+a.disabled {
+    pointer-events: none;
+    cursor: default;
+  }
 
 a.btn.btn-icon-only .icon, button.btn-icon-only .icon, input[type=button].btn-icon-only .icon, input[type=reset].btn-icon-only .icon, input[type=submit].btn-icon-only .icon, span.btn.btn-icon-only .icon {
     margin: .25rem;
