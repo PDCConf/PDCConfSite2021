@@ -1,8 +1,10 @@
 @charset "UTF-8";
 :root {
-    --primary: #edf0f3;
+    --primary: #ffffff;
     --primary-txt: rgb(20, 19, 19);
     --secondary: #c6d7e7;
+    --cfp:#000000;
+    --cfp-txt: rgb(251, 251, 251);
     --secondary-txt: rgb(20, 19, 19);
     --accent: grey;
     --accent-txt: #fff;
@@ -366,6 +368,12 @@ body>main>section.primary {
     background-color: var(--primary);
     color: #fff;
     color: var(--primary-txt)
+}
+
+body>main>section.cfp {
+    background-color: #000305;
+    color: #fff;
+    color: var(--cfp-txt)
 }
 
 body>main>section.secondary {
