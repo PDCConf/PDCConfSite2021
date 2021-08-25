@@ -35,6 +35,17 @@
     
     <item>
       <title></title>
+      <link>https://pdcconf.in/speakers/debabrata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pdcconf.in/speakers/debabrata/</guid>
+      <description>Debabrata have keen interest in working with opensource softwares, also been exploring the cloud native applications and regularly contributing to CNCF projects like chaos-mesh, kubernetes(ingress-controller).
+Recently being inducted as a Linux Foundation mentee, he has hone his interests in working with container services like docker and kubernetes also have learnt the basics of distributed file system and how container scheduling works in production.
+Golang has always been his favourite language, also at times he likes to participate in weekend hackathons, speak at conferences which helps him to connect and network with people.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://pdcconf.in/speakers/gowri/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
