@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sponsors on PowerShell DevOps and Cloud Conference 2021</title>
+    <link>https://pdcconf.in/partners/</link>
+    <description>Recent content in Sponsors on PowerShell DevOps and Cloud Conference 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://pdcconf.in/partners/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CloudLabsAI</title>
+      <link>https://pdcconf.in/partners/gold/spektrasystems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pdcconf.in/partners/gold/spektrasystems/</guid>
+      <description>CloudLabs, provides easy-to-use, high-performance hands-on lab experience to companies of all sizes. We cater to the IT companies, educational organizations, training partners and more. It is for those that wish to exhibit innovative business ideas, enable effective technical upskilling, and present optimized solutions for training transformation. With CloudLabs, organizations can deliver fast and reliable cloud infrastructures that exceed business objectives effortlessly.</description>
+    </item>
+    
+  </channel>
+</rss>
