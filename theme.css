@@ -1185,12 +1185,12 @@ a.social:focus, a.social:hover {
     background-repeat: no-repeat;
     background-position: 50%;
     background-origin: content-box;
-    box-shadow: 0 0 2px 0 rgba(0, 0, 0, .07), 0 2px 2px 0 rgba(0, 0, 0, .15);
+    /* box-shadow: 0 0 2px 0 rgba(0, 0, 0, .07), 0 2px 2px 0 rgba(0, 0, 0, .15);
     box-shadow: var(--box-shadow-1);
     -webkit-transition: box-shadow .3s cubic-bezier(.4, 0, .2, 1);
     transition: box-shadow .3s cubic-bezier(.4, 0, .2, 1);
     -webkit-transition: box-shadow var(--animation);
-    transition: box-shadow var(--animation);
+    transition: box-shadow var(--animation); */
     cursor: pointer;
     color: transparent
 }
@@ -2133,7 +2133,7 @@ form input:invalid {
     background-origin: content-box;
     padding: .25em;
     margin-right: 1em;
-    box-shadow: .125em .125em .25em rgba(0, 0, 0, .5)
+    /* box-shadow: .125em .125em .25em rgba(0, 0, 0, .5) */
 }
 
 .page.partners .header h1 {
