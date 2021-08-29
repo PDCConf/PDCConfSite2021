@@ -1206,7 +1206,7 @@ a.social:focus, a.social:hover {
     flex-basis: 320px
 }
 
-.partners-group.partner-gold ul li, .partners-group.partner-silver ul li {
+.partners-group.partner-gold ul li, .partners-group.partner-silver ul li, .partners-group.partner-support ul li {
     height: 120px;
     height: var(--partner-gold-height);
     flex-basis: 200px
@@ -1265,6 +1265,7 @@ a.social:focus, a.social:hover {
     top: 20%;
     border-bottom: 1px solid
 }
+
 
 .tag-method-tools {
     background-color: #e6f5c9;
