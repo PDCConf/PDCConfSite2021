@@ -1195,6 +1195,25 @@ a.social:focus, a.social:hover {
     color: transparent
 }
 
+.supportedby {
+    padding: var(--space-3);
+    display: -webkit-flex;
+    height: 100%;
+    width: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-origin: content-box;
+    /* box-shadow: 0 0 2px 0 rgba(0, 0, 0, .07), 0 2px 2px 0 rgba(0, 0, 0, .15);
+    box-shadow: var(--box-shadow-1);
+    -webkit-transition: box-shadow .3s cubic-bezier(.4, 0, .2, 1);
+    transition: box-shadow .3s cubic-bezier(.4, 0, .2, 1);
+    -webkit-transition: box-shadow var(--animation);
+    transition: box-shadow var(--animation); */
+    cursor: pointer;
+    color: transparent
+}
+
 .partners-group .partner:focus, .partners-group .partner:hover {
     box-shadow: 0 3px 3px -2px rgba(0, 0, 0, .2), 0 3px 4px 0 rgba(0, 0, 0, .14), 0 1px 8px 0 rgba(0, 0, 0, .12);
     box-shadow: var(--box-shadow-2)
