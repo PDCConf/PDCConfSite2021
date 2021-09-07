@@ -17,6 +17,7 @@
     --lighten-2: rgba(255, 255, 255, 0.25);
     --lighten-3: rgba(255, 255, 255, 0.5);
     --color-hero: #f8f8ff;
+    --color-booth: #afc5e2;
     --color-platium: #73737a;
     --color-gold: #b7935b;
     --color-error: #b22222;
@@ -999,6 +1000,11 @@ a.social:focus, a.social:hover {
     padding: 2rem var(--container-margin)
 }
 
+.center {
+    /* -webkit-box-align: center; */
+    align-content: center;
+}
+
 .hero .description {
     background: #f8f8ff;
     background: var(--color-hero);
@@ -1008,6 +1014,13 @@ a.social:focus, a.social:hover {
     border-bottom: thin solid var(--darken-1)
 }
 
+.booth {
+    align-items: flex-end;
+    border-top: thin solid rgba(0, 0, 0, .125);
+    border-top: thin solid var(--darken-1);
+    border-bottom: thin solid rgba(0, 0, 0, .125);
+    border-bottom: thin solid var(--darken-1)
+}
 #TableOfContents ul {
     padding-left: 1em;
     list-style: none
